@@ -7,10 +7,9 @@ Add a delightful snowfall effect to your website with this simple HTML, CSS, and
 ![Snowfall Example](https://github.com/xxRON-js/snow-css-for-holidays/blob/main/example.png)
 
 
-## How to Use
+## Enjoy the snowfall effect on your website!
 
-Enjoy the snowfall effect on your website!
-
+(:
 ```html
 <!DOCTYPE html>
 <html lang="en">
