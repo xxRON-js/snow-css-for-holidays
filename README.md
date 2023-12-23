@@ -2,6 +2,11 @@
 
 Add a delightful snowfall effect to your website with this simple HTML, CSS, and JavaScript code. Copy the code below and paste it into your HTML file to create a festive atmosphere on your web pages during the holiday season.
 
+## Example
+
+![Snowfall Example](https://github.com/xxRON-js/snow-css-for-holidays/blob/main/example.png)
+
+
 ## How to Use
 
 Enjoy the snowfall effect on your website!
